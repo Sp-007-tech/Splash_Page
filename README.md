@@ -6,3 +6,4 @@ It contains a specific message to show visitor before they check the page conten
 
 It can be a warning, a welcome message, a promotion, a disclainer, a advertisement,etc.
 
+Basically I added four toogle buttons on top-right cornor of the page. When you click on that button the background of page change. 
